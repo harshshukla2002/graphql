@@ -1,0 +1,13 @@
+.book-list {
+  margin: 20px;
+  margin-bottom: 60%;
+}
+
+.book-list ul {
+  margin-left: 20px;
+  list-style: square;
+}
+
+.book-list ul li {
+  cursor: pointer;
+}
